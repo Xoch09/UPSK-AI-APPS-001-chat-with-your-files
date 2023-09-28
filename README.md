@@ -2,18 +2,21 @@
 
 ## Índice
 
-- [1. Consideraciones generales](#1-consideraciones-generales)
-- [2. Preámbulo](#2-preámbulo)
-- [3. Resumen del proyecto](#3-resumen-del-proyecto)
-- [4. Objetivos de aprendizaje](#4-objetivos-de-aprendizaje)
-- [5. Criterios de aceptación](#5-criterios-de-aceptación)
-- [6. Getting started](#6-getting-started)
-- [7. Valida tu solución](#7-valida-tu-solución)
-- [8. Recursos](#8-recursos)
+- [Chatea con tus archivos](#chatea-con-tus-archivos)
+  - [Índice](#índice)
+  - [1. Consideraciones generales.](#1-consideraciones-generales)
+  - [2. Preámbulo](#2-preámbulo)
+  - [3. Resumen del proyecto](#3-resumen-del-proyecto)
+  - [4. Objetivos de aprendizaje](#4-objetivos-de-aprendizaje)
+  - [5. Criterios de aceptación](#5-criterios-de-aceptación)
+  - [6. Getting started](#6-getting-started)
+    - [Instalar Flowise](#instalar-flowise)
+  - [7. Valida tu solución](#7-valida-tu-solución)
+  - [8. Recursos](#8-recursos)
 
 ***
 
-## 1. Consideraciones generales
+## 1. Consideraciones generales.
 
 - Este proyecto lo resolvemos de manera **individual**.
 - El rango de tiempo estimado para completar el proyecto es de 1 a 2 Sprints.
